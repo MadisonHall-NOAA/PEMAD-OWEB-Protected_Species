@@ -1,4 +1,4 @@
-# OWEB & Protected Species Project Management
+# Protected Species Project Management
 
 [![gitleaks](https://github.com/jmhatch-NOAA/PEMAD-OWEB-Protected_Species/actions/workflows/secretScan.yml/badge.svg)](https://github.com/jmhatch-NOAA/PEMAD-OWEB-Protected_Species/actions/workflows/secretScan.yml)
 
